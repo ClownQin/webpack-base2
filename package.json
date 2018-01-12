@@ -1,0 +1,26 @@
+{
+  "name": "webpack-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/closeXX/webpack-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/closeXX/webpack-base/issues"
+  },
+  "homepage": "https://github.com/closeXX/webpack-base#readme",
+  "description": "",
+  "devDependencies": {
+    "css-loader": "^0.28.8",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0"
+  }
+}
